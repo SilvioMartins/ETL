@@ -4,11 +4,11 @@ from tweepy import OAuthHandler, Stream , StreamListener
 from datetime import datetime
 
 #Chaves de acesso ao Tweeter
-consumer_key = "Tr51hE893RIQtz5JPfZSgaozl"
-consumer_secret = "HMSv7tRF4t8HlfM97CizBhzjBHopa7JYPREr3nLXaRAUoOSpCi"
+consumer_key = 
+consumer_secret = 
 
-access_token = "171893216-sDNQCYsholRyzhiX9ok9WsPP3q6nBUAU2scSFqCY"
-access_token_secret = "ZpXdBkELUiKUtiTixNQ9wWFmtr8XM8UjnDQTZPsDm6KXc"
+access_token = 
+access_token_secret = 
 
 #definir arquivo de saída
 data_agora = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
